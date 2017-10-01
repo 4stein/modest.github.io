@@ -382,7 +382,8 @@ i {
     height: 32px;
     background-color: #EAEEF1;
     border: none;
-    border-right: 5px; }
+    border-right: 5px;
+    margin-bottom: 12px; }
   .contact p input {
     background-color: #23b7a4;
     border: 2px solid #23b7a4;
@@ -403,6 +404,7 @@ i {
     border-right: 5px; }
   .contact b {
     font-size: 14px;
+
     text-transform: uppercase;
     color: #A9A9AA; }
   .contact form {
