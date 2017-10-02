@@ -6,14 +6,24 @@
     line-height: 24px;
     margin-left: 3px;
     height: 25px;
-    width: 72px; } }
+    width: 72px; }
+
+  .contact input {
+    width: 160px !important; } }
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
   nav {
     display: none; }
 
   .features .feature_box img {
-    width: 100%; } }
+    width: 100%; }
+
+  .contact input {
+    width: 60.3% !important; }
+  .contact h3 {
+    margin: 36px 0 30px !important; }
+  .contact form {
+    padding-top: 36px !important; } }
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
   .slider {
@@ -25,7 +35,10 @@
     max-width: 301px; }
 
   .features .feature_box img {
-    width: 100%; } }
+    width: 100%; }
+
+  .contact input {
+    width: 416px !important; } }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
   .footer .sos_foot {
@@ -35,7 +48,12 @@
     display: none; }
 
   .work .button {
-    left: 35% !important; } }
+    left: 35% !important; }
+
+  .contact input {
+    width: 100% !important; }
+  .contact textarea {
+    width: 100% !important; } }
 /* Custom, iPhone Retina */
 @media only screen and (max-width: 320px) {
   /* */ }
