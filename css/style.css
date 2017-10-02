@@ -28,8 +28,9 @@
 @media only screen and (max-width: 768px) {
   .slider {
     display: none; }
-    .slider .button {
-      left: 39% !important; }
+
+  .work .button {
+    left: 39% !important; }
 
   .features img {
     max-width: 301px; }
