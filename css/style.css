@@ -388,7 +388,7 @@ i {
     text-transform: uppercase;
     font-weight: 650;
     color: #4F5156;
-    margin: 30px 0 30px; }
+    margin: 66px 0 30px; }
   .contact p {
     margin: 20px 0 10px;
     color: #999A9C; }
@@ -421,7 +421,7 @@ i {
     text-transform: uppercase;
     color: #A9A9AA; }
   .contact form {
-    padding-top: 30px; }
+    padding-top: 66px; }
 
 .contact .form_box {
   right: -80px; }
